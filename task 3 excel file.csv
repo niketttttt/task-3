@@ -1,0 +1,11 @@
+Customer_id,Customer_name,Email_id,Mobile_number,Order_id,Product_id,,Order_id,Order_date,Ship_date,,Product_id,Product_name,Discount_rate
+17,John Smith,john.smith@example.com,123-456-7890,1,1,,1,6/5/2024,6/10/2024,,1,T-Shirt,10
+18,Jane Doe,jane.doe@example.com,987-654-3210,2,2,,2,6/4/2024,6/9/2024,,2,Coffee Mug,15
+19,Michael Brown,michael.brown@example.com,555-123-4567,3,3,,3,6/3/2024,6/8/2024,,3,Laptop,5
+20,Alice Garcia,alice.garcia@example.com,888-777-6655,4,4,,4,6/1/2024,6/6/2024,,4,Headphones,20
+21,David Hernandez,david.hernandez@example.com,444-333-2211,5,5,,5,5/31/2024,6/5/2024,,5,Notebook,0
+22,Margaret Lee,margaret.lee@example.com,333-222-1100,6,6,,6,5/30/2024,6/4/2024,,6,Pen,0
+23,Charles Miller,charles.miller@example.com,111-000-9988,7,7,,7,5/29/2024,6/3/2024,,7,Water Bottle,10
+24,Sarah Jones,sarah.jones@example.com,777-888-9900,8,8,,8,5/28/2024,6/1/2024,,8,Backpack,15
+25,William Davis,william.davis@example.com,222-111-0077,9,9,,9,5/25/2024,5/30/2024,,9,Desk Lamp,5
+26,Jennifer Lopez,jennifer.lopez@example.com,999-000-8866,10,10,,10,5/24/2024,5/29/2024,,10,Mouse,20
